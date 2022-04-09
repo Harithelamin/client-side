@@ -24,7 +24,7 @@
     "@syncfusion/ej2-angular-dropdowns": "^18.1.44",
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "ng-multiselect-dropdown": "^0.2.10",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
